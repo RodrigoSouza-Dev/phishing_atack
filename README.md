@@ -15,12 +15,12 @@ No Kali Linux, uma das ferramentas mais populares para simular ataques de phishi
 Instalar o SET: O SET já vem pré-instalado no Kali Linux, mas caso precise, use o comando:
 
 ```bash
-sudo apt-get install set
+sudo apt-get install set```
 
 Rodar o SET: Abra o terminal e digite:
 
 ```bash
-sudo setoolkit
+sudo setoolkit```
 
 # Configuração: No menu do SET, selecione as seguintes opções:
 1) Social-Engineering Attacks
