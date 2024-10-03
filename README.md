@@ -14,14 +14,15 @@ No Kali Linux, uma das ferramentas mais populares para simular ataques de phishi
 # Exemplo de uso do SET para Phishing:
 Instalar o SET: O SET já vem pré-instalado no Kali Linux, mas caso precise, use o comando:
 
-```bash
-sudo apt-get install set```
+  ```bash
+  sudo apt-get install set```
 
 Rodar o SET: Abra o terminal e digite:
 
-```bash
-sudo setoolkit```
+  ```bash
+  sudo setoolkit```
 
+```
 # Configuração: No menu do SET, selecione as seguintes opções:
 1) Social-Engineering Attacks
 2) Website Attack Vectors
